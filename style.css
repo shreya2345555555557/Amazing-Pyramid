@@ -1,0 +1,44 @@
+body
+{
+    background-color: cyan;
+}
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+hr{
+    background-color: purple;
+    height: 6px;
+    width: 100%;
+}
+p{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+h2{
+    font-size: 20px;
+}
+#purpose
+{
+    font-size: 20px
+}
+.grey
+{
+    background-color: grey;
+    height: 4px;
+}
+h3{
+    font-size: 20px;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+
